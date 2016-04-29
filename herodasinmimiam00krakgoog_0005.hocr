@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./herodasinmimiam00krakgoog_0005.png"; bbox 0 0 2988 5084; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 364 693 1201 1002">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 364 693 1201 1002">
+     <span class='ocr_line' id='line_1_1' title="bbox 364 693 1201 835; baseline 0.001 -23"><span class='ocrx_word' id='word_1_1' title='bbox 364 733 575 812; x_wconf 70' lang='lat' dir='ltr'>Harvard</span> <span class='ocrx_word' id='word_1_2' title='bbox 607 737 1031 835; x_wconf 66' lang='lat' dir='ltr'><strong>Collegolemy.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1195 693 1201 714; x_wconf 39' lang='lat'><strong>⁹</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 523 907 889 1002; baseline 0.003 -20"><span class='ocrx_word' id='word_1_4' title='bbox 523 909 595 1000; x_wconf 86' lang='lat' dir='ltr'>By</span> <span class='ocrx_word' id='word_1_5' title='bbox 618 907 889 1002; x_wconf 65' lang='lat' dir='ltr'><strong>Exohange.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 472 1073 936 1326">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 472 1073 936 1326">
+     <span class='ocr_line' id='line_1_3' title="bbox 472 1073 936 1172; baseline 0.009 -18"><span class='ocrx_word' id='word_1_6' title='bbox 472 1076 609 1155; x_wconf 78' lang='lat' dir='ltr'><strong>Univ.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 624 1073 674 1154; x_wconf 74' lang='lat' dir='ltr'>of</span> <span class='ocrx_word' id='word_1_8' title='bbox 694 1077 936 1172; x_wconf 68' lang='lat' dir='ltr'><strong>Freiburg.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 486 1245 896 1326; baseline 0.005 -2"><span class='ocrx_word' id='word_1_9' title='bbox 486 1305 487 1310; x_wconf 65' lang='lat'>,</span> <span class='ocrx_word' id='word_1_10' title='bbox 520 1245 896 1326; x_wconf 75' lang='lat' dir='ltr'>san-251904.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1498 5084">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1498 5084">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1498 5084; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1498 5084; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
